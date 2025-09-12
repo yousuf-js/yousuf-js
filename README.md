@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousuf-js&label=Profile%20views&color=0e75b6&style=flat" alt="yousuf-js" /> </p>
 
-- 🌱 I’m currently learning **CSS3**
+- 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **HTML**
+- 💬 Ask me about **HTML and CSS3**
 
 - 📫 How to reach me **champyousuf10@gmail.com**
 
